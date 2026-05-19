@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anushaa Shetty
+# 👋 Hi, I'm Anusha Shetty
 
 **Building tools that solve real-world problems - one project at a time.**
 
@@ -22,7 +22,7 @@
 
 ### ❗ The Problem
 
-**Coastal Karnataka** — Udupi, Mangalore, and beyond - is a dream destination for travelers. But there's a catch: **private bus timings don't exist in one place.**
+**Coastal Karnataka** , Udupi, Mangalore, and beyond - is a dream destination for travelers. But there's a catch: **private bus timings don't exist in one place.**
 
 Locals and tourists alike struggle to find reliable schedules, often wasting time waiting at bus stands or missing rides entirely. Auto and train info? Even more scattered.
 
@@ -43,7 +43,7 @@ Locals and tourists alike struggle to find reliable schedules, often wasting tim
 
 | Feature | Description |
 |---------|-------------|
-| 🚌 **Private Bus Timings** | All schedules in one place — no more asking around |
+| 🚌 **Private Bus Timings** | All schedules in one place - no more asking around |
 | 🚂 **Train Schedules** | Quick access to train timings for the coastal route |
 | 🛺 **Auto & Local Transport** | Local auto rates and availability at your fingertips |
 | 🗺️ **Tourist-Friendly** | Built especially for visitors to Udupi & Mangalore |
