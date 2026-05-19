@@ -7,11 +7,14 @@ Project: rite.poyi - a travel guide
 **Try it live: https://ritepoyi.vercel.app/**
 
 **The Problem**
+
 _Coastal Karnataka - Udupi, Mangalore, and beyond, is a dream destination for travelers. But there's a catch: private bus timings don't exist in one place.
 
 Locals and tourists alike struggle to find reliable schedules, often wasting time waiting at bus stands or missing rides entirely. Auto and train info? Even more scattered._
 
+
 **Why I Built Ritepoyi**
+
 _"I've lived this problem - standing at bus stops, guessing timings, hoping the next bus shows up. So I decided to fix it."
 
 Ritepoyi brings bus, train, and auto timings together in one simple, user-friendly place. No more guessing. No more asking around. Just open the app and go.
