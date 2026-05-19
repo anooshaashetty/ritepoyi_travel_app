@@ -6,7 +6,7 @@ EmailLinkedIn
 🌍 Featured Project: Ritepoyi — Your Travel Guide
 Live DemoDeployed on Vercel
 
-🔗 Try it live: ritepoyi.vercel.app
+🔗 Try it live: https://ritepoyi.vercel.app/
 
 ❗ The Problem
 Coastal Karnataka — Udupi, Mangalore, and beyond , is a dream destination for travelers.But there's a catch: private bus timings don't exist in one place.
@@ -33,5 +33,5 @@ Next.jsReactTailwind CSSVercel
 I'm always open to feedback, collaboration, or just a good conversation about travel and tech.
 
 📧 Email	anooshaashetty@gmail.com
-💼 LinkedIn	Anushaa Shetty
+💼 LinkedIn https://www.linkedin.com/in/anushashettyudupi
 ⭐️ If you find my work interesting, feel free to explore and drop a star!
