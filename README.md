@@ -1,5 +1,5 @@
 👋 Hi, I'm Anushaa Shetty
-Building tools that solve real-world problems — one project at a time.
+Building tools that solve real-world problems: one project at a time.
 
 EmailLinkedIn
 
@@ -9,7 +9,7 @@ Live DemoDeployed on Vercel
 🔗 Try it live: ritepoyi.vercel.app
 
 ❗ The Problem
-Coastal Karnataka — Udupi, Mangalore, and beyond — is a dream destination for travelers.But there's a catch: private bus timings don't exist in one place.
+Coastal Karnataka — Udupi, Mangalore, and beyond , is a dream destination for travelers.But there's a catch: private bus timings don't exist in one place.
 
 Locals and tourists alike struggle to find reliable schedules, often wasting time waiting at bus stands or missing rides entirely. Auto and train info? Even more scattered.
 
@@ -22,7 +22,7 @@ Ritepoyi brings bus, train, and auto timings together in one simple, user-friend
 
 ✨ What It Offers
 Feature	Description
-🚌 Private Bus Timings	All schedules in one place — no more asking around
+🚌 Private Bus Timings	All schedules in one place - no more asking around
 🚂 Train Schedules	Quick access to train timings for the coastal route
 🛺 Auto & Local Transport	Local auto rates and availability at your fingertips
 🗺️ Tourist-Friendly	Built especially for visitors to Udupi & Mangalore
