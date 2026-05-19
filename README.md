@@ -3,7 +3,7 @@ Hi, I'm Anushaa Shetty 👋
 Building tools that solve real-world problems: one project at a time
 
 Project: rite.poyi - a travel guide
-Try it live: ritepoyi.vercel.app
+Try it live: https://ritepoyi.vercel.app/
 
 The Problem
 Coastal Karnataka - Udupi, Mangalore, and beyond, is a dream destination for travelers. But there's a catch: private bus timings don't exist in one place.
